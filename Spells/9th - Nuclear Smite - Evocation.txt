@@ -7,3 +7,8 @@ Nuclear Smite
 
   In addition, unsecured objects that are completely within the area of effect are automatically pushed 40 feet away from you by the spell’s effect, and the spell emits a resounding boom audible out to 300 feet.
   Classes: Paladin, Wizard (Bladesinging)
+
+# Note: This is meant to deal a large amount of damage in one hit, but also deal it to yourself. 
+# It deals about half the average damage that a Blade of Disaster deals, but in one hit instead of over time.
+# This spell is given to Paladins, knowing full well that they can't reach 9th-Level. The idea is that you are either doing a level-40 campaign, or 2 level into Paladin and the rest into a fullcaster.
+# I also gave it to Bladesinging Wizards just so its not impossible to get without going _directly_ for it
