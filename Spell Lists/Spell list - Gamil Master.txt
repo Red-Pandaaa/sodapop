@@ -1,0 +1,76 @@
+  [Cantrips]
+    Control Flames
+    Dancing Lights
+    Fire Bolt
+    Green-Flame Blade
+    Mending 
+    Produce Flame
+    Sword Burst 
+  [1st Level]
+    Absorb Elements 
+    Burning hands 
+    Chromatic Orb 
+    Flame Dagger [HB]
+    Hellish Rebuke
+    Heroism
+    Searing Smite 
+  [2nd level]
+    Ados' Spectacular Flame [HB]
+    Aganazzar's Scorcher
+    Continual Flame
+    Dragon's Breath 
+    Flame Blade 
+    Flame Shackles [HB]
+    Flaming Sphere
+    Locate Object 
+    Magic Weapon 
+    Pyrotechnics
+    Prismatic Blade [HB]
+    Shield of Carceri [HB]
+    Spiritual Weapon 
+  [3rd level]
+    Elemental Weapon 
+    Fireball
+    Flame Arrows 
+    Flame Stride 
+    Melf's Minute Meteors
+    Protection from Energy
+  [4th level]
+    Aura of life 
+    Elemental Bane
+    Fire shield
+    Wall of Fire
+    Widogast's Web of Fire [HB from Critical Role]
+  [5th level]
+    Banishing Smite 
+    Ados' Lake of Lava [HB]
+    Immolation
+    Reincarnate 
+    Steel Wind Strike
+  [6th level]
+    Ados' Blazing Balls [HB]
+    Blade Barrier
+    Globe of Invulnerability
+    Investure of Flame
+  [7th level]
+    Fire Storm
+    Morderkainen's Sword
+    Prismatic Spray
+    Regenerate 
+    Resurrection 
+  [8th level]
+    Clone 
+    Glibness 
+    Illusory Dragon
+    Incendiary Cloud
+    Power Word: Stun 
+  [9th level]
+    Blade of Disaster
+    Invulnerability 
+    Mass Heal 
+    Meteor Swarm 
+    Power Word: Heal
+    Prismatic Wall 
+    Wish 
+
+    

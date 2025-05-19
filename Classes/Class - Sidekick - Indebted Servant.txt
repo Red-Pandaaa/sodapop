@@ -1,0 +1,90 @@
+### POLISH SPELLCASTING BEFORE SENDING PROPER 
+### ADD ELDRICH INVOCATION  TOO
+### AND THE ASI THING
+
+The Indebted Servant
+┏━━━━━━━┯━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━┯━━━━━━━━┯━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃       ╵    ╵                               ╵ Cantrips ╵ Spells ╵ Invocations │ ---Spell Slots Per Level--- ┃
+┃ Level ╷ PB ╷ Class Features                ╷  Known   ╷ Known  ╷    Known    │ 1st ╷ 2nd ╷ 3rd ╷ 4th ╷ 5th ┃
+┠───────┼────┼───────────────────────────────┼──────────┼────────┼─────────────┼─────┼─────┼─────┼─────┼─────┨
+┃ 1st   │ +2 │ Spellcasting, Master's Proxy  │    2     │   1    │      ─      │  2  │  ─  │  ─  │  ─  │  ─  ┃
+┃ 2nd   │ +2 │                               │    2     │   2    │      ─      │  2  │  ─  │  ─  │  ─  │  ─  ┃
+┃ 3rd   │ +2 │ Eldrich Invocations           │    2     │   3    │      2      │  3  │  ─  │  ─  │  ─  │  ─  ┃
+┃ 4th   │ +2 │ Ability Score Improvement     │    3     │   3    │      2      │  3  │  ─  │  ─  │  ─  │  ─  ┃
+┃ 5th   │ +3 │                               │    3     │   4    │      2      │  4  │  2  │  ─  │  ─  │  ─  ┃
+┃ 6th   │ +3 │ Master Feature, Indebted Eyes │    3     │   4    │      2      │  4  │  2  │  ─  │  ─  │  ─  ┃
+┃ 7th   │ +3 │                               │    3     │   5    │      2      │  4  │  3  │  ─  │  ─  │  ─  ┃
+┃ 8th   │ +3 │ Ability Score Improvement     │    3     │   5    │      2      │  4  │  3  │  ─  │  ─  │  ─  ┃
+┃ 9th   │ +4 │                               │    3     │   6    │      3      │  4  │  3  │  2  │  ─  │  ─  ┃
+┃ 10th  │ +4 │ Master Feature, Indebted Hands│    4     │   6    │      3      │  4  │  3  │  2  │  ─  │  ─  ┃
+┃ 11th  │ +4 │                               │    4     │   7    │      3      │  4  │  3  │  3  │  ─  │  ─  ┃
+┃ 12th  │ +4 │ Ability Score Improvement     │    4     │   7    │      3      │  4  │  3  │  3  │  ─  │  ─  ┃
+┃ 13th  │ +5 │                               │    4     │   8    │      4      │  4  │  3  │  3  │  1  │  ─  ┃
+┃ 14th  │ +5 │ Master Feature, Indebted Brain│    4     │   8    │      4      │  4  │  3  │  3  │  1  │  ─  ┃
+┃ 15th  │ +5 │                               │    4     │   9    │      4      │  4  │  3  │  3  │  2  │  ─  ┃
+┃ 16th  │ +5 │ Ability Score Improvement     │    4     │   9    │      4      │  4  │  3  │  3  │  2  │  ─  ┃
+┃ 17th  │ +6 │                               │    4     │   10   │      5      │  4  │  3  │  3  │  3  │  1  ┃
+┃ 18th  │ +6 │ Ability Score Improvement     │    4     │   10   │      5      │  4  │  3  │  3  │  3  │  1  ┃
+┃ 19th  │ +6 │                               │    4     │   11   │      5      │  4  │  3  │  3  │  3  │  2  ┃
+┃ 20th  │ +6 │ Indebted Reactions            │    4     │   11   │      5      │  4  │  3  │  3  │  3  │  2  ┃
+┗━━━━━━━┷━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━┷━━━━━━━━┷━━━━━━━━━━━━━┷━━━━━┷━━━━━┷━━━━━┷━━━━━┷━━━━━┛
+
+Master's Proxy
+    At 1st level, you have struck a deal with a powerful entity. Your master grants you features at 1st level and again at 6th, 10th, and 14th level.
+    Your master may also grant you a gift similar to a Pact Boon.
+    This deal is much more personal than a pact, and because of that, your level scales alongside the spellcasting level of your master's. This level scaling cannot bring you above level 20 in this class. 
+
+Spellcasting [TEMP FOR REFERENCE]
+  # Largely copied from a normal spellcaster's section i'll be honest.
+    The power of your master is a bit... unique. Instead of taking spells from a predetermined list, your master chooses what spell list you get. It may be a custom spell list, or simply a spell list from a pre-existing class. You may have multiple spell lists, if the DM agrees.
+      Cantrips
+
+    You know two cantrips of your choice from the chosen spell list. You learn additional cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Indebted Servant table.
+      Spell Slots
+    # On the table i sent so might as well remove redundant information
+    # Also the spells known column is on the table so i zapped it
+
+    Additionally, when you gain a level in this class, you can choose one of the spells from the chosen spell list and replace it with another spell from the chosen spell list, which also must be of a level for which you have spell slots.
+    # Barely Rephrased tbh
+
+    Your spellcasting ability is determined by your master.
+    # For blueberry it will be charisma
+    # Missing out on the spellsave dc stuff. assume its as normal
+
+Spellcasting [PH]
+  You've studied the workings of magic and how to cast spells, channeling the magic through objects. To observers, you don't appear to be casting spells in a conventional way; you appear to produce wonders from mundane items and outlandish inventions.
+    Cantrips 
+  At 1st level, you know two cantrips of your choice from the artificer spell list. At higher levels, you learn additional artificer cantrips of your choice, as shown in the Cantrips Known column of the Artificer table.
+    Spell Slots
+  The Sorcerer table shows how many spell slots you have to cast your sorcerer spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+  For example, if you know the 1st-level spell burning hands and have a 1st-level and a 2nd-level spell slot available, you can cast burning hands using either slot.
+    Spells Known of 1st Level and Higher
+  You know two 1st-level spells of your choice from the sorcerer spell list.
+  The Spells Known column of the Sorcerer table shows when you learn more sorcerer spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
+  Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.
+    Spellcasting Ability
+  Intelligence is your spellcasting ability for your artificer spells; your understanding of the theory behind magic allows you to wield these spells with superior skill. You use your Intelligence whenever an artificer spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an artificer spell you cast and when making an attack roll with one.
+  Spell save DC = 8 + your proficiency bonus + your Intelligence modifier
+  Spell attack modifier = your proficiency bonus + your Intelligence modifier
+
+Eldritch Invocations
+  In your eternal servitude, your master has granted you Eldritch Invocations, fragments of forbidden power that imbue you with an abiding magical ability.
+  At 2nd level, you gain two eldritch invocations of your choice. When you gain certain servant levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Servant table. A level prerequisite refers to your level in this class.
+  Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
+
+Indebted Eyes:
+    Starting at 6th level, your master may tap into your senses temporarily. Your master may spend an action and percieve through your senses until the end of their turn. As long as you are on the same plane of existence as your master, your master can use their bonus action on subsequent turns to maintain this connection, extending the duration until the end of their next turn. While perceiving through your senses, they benefit from any special senses possessed by you, and they are blinded and deafened to their own surroundings.
+    If your master is willing, you may also spend an action and percieve through your master's senses, following the same rules as above.
+
+Indebted Hands: 
+    Starting at 10th level, your master may now channel spells through you. When your master casts a spell with a range of touch, they may choose to spend your reaction and have you deliver it instead, if you are willing. You must be within 120 feet of your master for this.
+    Additionally, if you are to cast a spell against your master, they have the option to succeed or fail the throw without rolling, and if you cast a spell that requires a saving throw or take half damage, your master instead takes no damage on a success. Additionally, if you heal your master, they receive the maximum healing possible.
+
+Indebted Brain:
+    Starting at 14th level, your master may borrow your brain for a bit. When your master concentrates on a spell, they may choose to pass it on to you, as long as you are willing. Your concentration saving throws for spells concentrated on through this feature gain a bonus equal to your spellcasting modifier on your master (For example: If your spellcasting modifier is intelligence, you would use your master's intelligence modifier). 
+    If you are already concentrating on a spell, you can maintain concentration on both spells simultaneously. You must roll two concentration saving throws to maintain your concentration, and if either one of them fails, you lose concentration on both spells.
+    If you have "Focused Casting" or a similar feature, you instead only have to make one concentration saving throw, however you lose your master's spellcasting modifier bonus. You still lose concentration on both spells if you fail the saving throw.
+
+Indebted Reactions:
+    Starting at 20th level, both you and your master gain an additional reaction each turn.
+    Additionally, if both of you are willing, you or your master may use the other's reaction for their own reaction.
