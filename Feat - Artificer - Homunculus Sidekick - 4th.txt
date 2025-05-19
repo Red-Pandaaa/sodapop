@@ -1,0 +1,15 @@
+Homunculus Sidekick
+ Prerequisite: 4th Level Artificer, Homunculus Servant infusion
+  After rigorous testing, your methods for magically creating a homunculus have evolved. 
+
+  - The item used as the heart for your homunculus does not need to be a gem or crystal, or worth 100gp.
+    - If you create a homunculus as a sidekick, the item needed as the heart will still be a gem or crystal worth 100gp.
+  - Your Homunculus' Armor Class is now 13 + Dexterity.
+  - Your Homunculus' Hit Dice are now d6s instead of d4s.
+  - Your Homunculus can now speak, read, and write all languages you know.
+  Due to your advancements in technology, you can now grant your homunculus sentience
+  - When you create a homunculus, you can instead create it as a Sidekick using the rules found starting on page 142 of Tasha's Cauldron of Everything. 
+  - You must use the Homunculus Servant stat block found in the infusion for your sidekick
+  - Your Homunculus Sidekick's level is equal to your Artificer level
+  - Your homunculus advantage on saving throws against any spell or effect that would alter its form, regardless of whether it is willing or not.
+  - If you are the target of a melee attack and the servant is within 5 feet of the attacker, you can use your reaction to command the servant to respond, using its reaction to make a melee attack against the attacker.
