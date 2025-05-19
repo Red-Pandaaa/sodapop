@@ -1,0 +1,7 @@
+Magical Box of Banking
+  Wondrous item, Uncommon
+  This wooden box appears empty, sealed shut, and by the slot on top and a dial on the front, to be used for personal coin storage. The dial on the front shows 4 numerical discs and one with the letters C, S, E, G, and P.
+    Upon slotting a gold into the box, you hear a clink as it falls inside. Attempting to unlatch an open the box does not prove itself fruitful, as it does not budge.
+    As you increase the dial to read "0010" and "S', you hear a click as the box unlatches itself, revealing inside 10 silver coins.
+  You can insert any number of coins of any value into the box, and take out an equal value of copper, silver, electrum, gold, or platinum coins, using the dial on the front to choose the amount. Any coins inserted into the box will be stored safely until taken out, and will not increase the weight of the box.
+  Changing the dial to a value that does not exist within the box will leave it sealed and unable to be opened until a value that exists within the box is on the dial.
