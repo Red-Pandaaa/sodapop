@@ -1,0 +1,10 @@
+Magmatic Canyon | 5th-level transmutation
+ Casting Time: 1 action
+ Range: 60 feet
+ Components: V, S, M (a small igneous rock)
+ Duration: Concentration, up to 1 hour
+  You point at the ground as it crumbles, revealing a pool of roaring flame and magma. Choose an area you can see within range. Each grounded creature within a 30-foot radius must make a Dexterity saving throw. A creature takes 12d6 fire damage on a failed save, or half as much damage on a successful one.
+  The pool of magma lasts for up to 1 minute, or until concentration ends. Any creature that enters the magma pool for the first time on a turn or ends its turn there must succeed on a Constitution saving throw or take 6d6 fire damage.
+   When you cast this spell using a spell slot of 6th level or higher, the fire damage increases by 2d6 for each slot level above 5th.
+  Classes: Sorcerer, Wizard
+  # Note: This was previously called "Ados' Lake of Lava". This spell doesn't fit the personality of Ados, so I decided to change the name. I apologise if it causes any confusion.

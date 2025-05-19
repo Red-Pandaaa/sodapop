@@ -1,0 +1,9 @@
+Gamil's Firey Flames | 3rd-level Evocation
+ Casting Time: 1 Action
+ Range: 60ft
+ Components: S, M (a small bag of gunpowder)
+ Duration: Instantaneous
+  Choose an area you can see within range. A 10ft cube of fire erupts, burning any creature within the area. Each creature within the area must make a Dexterity saving throw. On a failed save, a creature takes 3d12 fire damage and is afflicted by burning for 1 minute, or until it or another creature within reach of it uses an action to extinguish the flames. On a successful save, it takes half as much damage and isn't afflicted by burning.
+  A burning target takes 1d6 fire damage at the start of it's turn, and has disadvantage on spell attack rolls for the duration. If a burning target is wearing or wielding a manufactured metal object, they take an extra 1d6 fire damage at the start of their turn.
+   When you cast this spell using a spell slot of 5th or 6th level, the initial damage increases by 1d12, and both burning damages increases by 1d6. This increase happens again at 7th and 8th level, and again at 9th level.
+  Classes: Sorcerer, Warlock, Wizard

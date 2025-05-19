@@ -1,0 +1,8 @@
+Ados' Spectacular Flames | 2nd-level Evocation
+ Casting Time: 1 Action
+ Range: Self (30-foot cone)
+ Components: S, M (a pair of sunglasses, that you equip while casting)
+ Duration: Instantaneous
+  You cup your hands together, and spew a volley of fireworks in a 30-foot cone. Each creature in that area must make a Dexterity saving throw. On a failed save, a creature takes 2d8 fire damage and dons a pair of firey shades for 1 minute, or until it or another creature within reach of it uses an action to take off the shades. A creature wearing the shades has its speed reduced by 10ft, and is blinded. On a successful save, a creature takes half as much damage and doesn't don the shades.
+   When you cast this spell using a spell slot of 3rd level or higher, increase the fire damage by 1d8 for each slot level above 2nd. For each level upcast, you must use cooler sunglasses.
+  Classes: Artificer, Bard, Sorcerer, Wizard

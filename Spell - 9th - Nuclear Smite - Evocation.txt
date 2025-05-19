@@ -1,0 +1,9 @@
+Nuclear Smite
+ Casting Time: 1 bonus action
+ Range: Self
+ Components: V
+ Duration: Concentration, up to 1 minute
+  The next time you hit a creature with a melee weapon attack before this spell ends, your weapon erupts with an illustrious explosion. Each creature in a 20-foot radius of your attack (including you) must make a Dexterity saving throw. On a failed save, a creature takes 20d12 + 150 force damage and is pushed 40 feet away from the impact point. On a successful save, the creature takes half as much damage and is pushed 20 feet away. The explosion spreads around corners and vaporizes flammable objects in the area that aren't benig worn or carried
+
+  In addition, unsecured objects that are completely within the area of effect are automatically pushed 40 feet away from you by the spell’s effect, and the spell emits a resounding boom audible out to 300 feet.
+  Classes: Paladin, Wizard (Bladesinging)

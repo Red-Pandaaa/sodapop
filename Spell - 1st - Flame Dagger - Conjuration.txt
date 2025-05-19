@@ -1,0 +1,8 @@
+Flame dagger | 1st-level conjuration
+  Casting Time: 1 action
+  Range: 60 feet
+  Components: S, M (a chunk of obsidian)
+  Duration: Concentration, up to 1 minute
+    You create a dagger of jagged obsidian and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 slashing damage. Hit or miss, the dagger then explodes into molten lava, lingering for up to 1 minute, or until concentration ends. The target and each creature within 5 feet of the point where the dagger exploded must succeed on a Dexterity saving throw, taking 2d4 fire damage on a failed save, or half as much damage on a successful one. A creature must also make the saving throw when it enters the lava pool for the first time on a turn or ends its turn there.
+     When you cast this spell using a spell slot of 2nd level or higher, the fire damage increases by 1d4 for each slot level above 1st.
+    Classes: Artificer, Druid, Sorcerer, Wizard

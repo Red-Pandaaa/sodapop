@@ -1,0 +1,8 @@
+Ados' Dope Shades | Enchantment cantrip
+ Casting Time: 1 Bonus Action
+ Range: 60 feet
+ Components: S, M (a pair of sunglasses, that you equip while casting)
+ Duration: Instantaneous
+    You shout at a target that you can see within range, insulting their fashion. Make a contested charisma check against the opponent. If you win the check, the opponent takes 1d6 psychic damage and is charmed until the start of your next turn. If the opponent wins the check, you take 1d6 psychic damage and your shades crack.
+     This spell's damage, both outgoing and incoming, increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+    Classes: Artificer, Bard, Sorcerer, Warlock

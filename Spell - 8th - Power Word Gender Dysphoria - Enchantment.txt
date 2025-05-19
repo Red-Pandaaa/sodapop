@@ -1,0 +1,10 @@
+Power Word: Gender Dysphoria | 8th-Level Enchantment
+ Casting Time: 1 action
+ Range: 60 feet
+ Components: V
+ Duration: Instantaneous
+  You utter a word of power that can assail the mind of one creature you can see within range, leaving it's mind shrouded in doubt. If the target has 150 hit points or fewer, it is subject to extreme gender dysphoria. A target is also unaffected if it is immune to being charmed.
+  While the target is affected by gender dysphoria, it has disadvantage on attack rolls, ability checks, and saving throws whilst a creature of the gender or genders that they identify with are within their line of sight, and automatically fails any charisma saving throws. Additionally, if a target sees an egg of any kind, they fall down in panic and become prone.
+  If a creature has changed their gender identity at any point in their life, they have advantage on all of their attack rolls against a target suffering from gender dysphoria.
+  A target suffering this dysphoria can make a Wisdom saving throw at the end of each of its turns. On a successful save, this dysphoria ends.
+ Classes: Bard, Sorcerer, Warlock, Wizard

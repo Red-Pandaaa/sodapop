@@ -1,0 +1,9 @@
+Dominating Rizz | 1st-Level Enchantment
+ Casting Time: 1 bonus action
+ Range: 30ft
+ Components: V, S
+ Duration: Instantaneous
+  You strike a pose directed at a creature within range. Make a contested charisma check against the opponent. If you win the check, the opponent takes 1d6 psychic and 1d6 force damage, as a "bwow" sound emenates from your immaculate rizz as they get flung back 5ft and ragdoll, landing prone. If the opponent wins the check, you take 1d6 psychic and 1d6 force damage as they strike a more powerful pose and mog you, and you are flung back 10ft like a ragdoll, landing prone.
+  If either you or your opponent hit a wall due to being flung back, the target hitting the wall takes a bonus 1d6 force damage and is stunned until the end of your next turn.
+    When you cast this spell using a spell slot of 2nd level, the psychic and force damage dealt by this spell gains your charisma modifier, both on initial cast and upon hitting a wall. At 3rd level or higher, you gain the previous effects, and additionally deal an extra d6 of psychic or force damage upon initial cast (your choice). 
+  Classes: Bard, Paladin, Sorcerer, Warlock

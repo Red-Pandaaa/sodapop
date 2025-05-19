@@ -1,0 +1,10 @@
+Ados' Blazing Balls | 6th-level evocation
+ Casting Time: 1 action
+ Range: 250 feet
+ Components: V, S, M (a small steel ball)
+ Duration: Instantaneous
+  A pair of firey balls streak from your fingertips to two points of your choice within range, where they each explode in 30-foot-radius spheres. Each creature within the area must make a Dexterity saving throw. On a failed save, a creature takes 6d6 fire damage. On a successful save, it takes half as much damage. You may throw both balls at one target, dealing 10d6 fire damage on a failed save, half as much on a successful one.
+  If either of the balls strike a body of water or a liquid that is principally water (not including water-based creatures), they evaporate the liquid over an area 20 feet square. Creatures that were swimming on the surface of evaporated water take an extra 6d6 fire damage.
+  You can refrain from firing the balls after completing the spell, if you wish. Two small balls about the size of sling stones, warm to the touch, appears in your hand. At any time, you or a creature you give a ball to can throw the globe (to a range of 40 feet) or hurl it with a sling (to the sling’s normal range). It explodes on impact, with the same effect as the normal casting of the spell. You can also set the balls down without shattering them. After 1 minute, if either of the ball haven’t already exploded, they disintegrate into ash.
+   At Higher Levels. When you cast this spell using a spell slot of 7th level or higher, the individual balls' damage increases by 1d6, and the combined balls damage increase by 2d6 for each slot level above 6th.
+  Classes: Bard, Sorcerer, Wizard

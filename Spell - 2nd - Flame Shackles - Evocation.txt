@@ -1,0 +1,9 @@
+Flame Shackles | 2nd-level evocation
+  Casting Time: 1 action
+  Range: 60 feet
+  Components: V, S, M (a pinch of sulfur and a scrap of blackened chain)
+  Duration: Concentration, up to 1 minute
+    You conjure searing chains of molten fire that coil around a creature you can see within range. The target must succeed on a Dexterity saving throw or become restrained by the chains. While restrained, the creature takes 2d6 fire damage at the start of each of its turns. The shackles emit heat in a 5-foot radius, causing flammable objects in the area to ignite.
+    A restrained creature can repeat the saving throw at the end of each of its turns, ending the effect on a success. If the creature escapes, the chains collapse into ash.
+     When cast using a spell slot of 3nd level or higher, the damage increases by 1d6 per slot level.
+    Classes: Artificer, Warlock, Wizard
