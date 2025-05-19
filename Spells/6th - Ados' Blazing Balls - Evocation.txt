@@ -8,3 +8,5 @@ Ados' Blazing Balls | 6th-level evocation
   You can refrain from firing the balls after completing the spell, if you wish. Two small balls about the size of sling stones, warm to the touch, appears in your hand. At any time, you or a creature you give a ball to can throw the globe (to a range of 40 feet) or hurl it with a sling (to the sling’s normal range). It explodes on impact, with the same effect as the normal casting of the spell. You can also set the balls down without shattering them. After 1 minute, if either of the ball haven’t already exploded, they disintegrate into ash.
    At Higher Levels. When you cast this spell using a spell slot of 7th level or higher, the individual balls' damage increases by 1d6, and the combined balls damage increase by 2d6 for each slot level above 6th.
   Classes: Bard, Sorcerer, Wizard
+
+# Note: This spells name will be changed eventually
