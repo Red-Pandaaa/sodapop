@@ -72,5 +72,3 @@
     Power Word: Heal
     Prismatic Wall 
     Wish 
-
-    
