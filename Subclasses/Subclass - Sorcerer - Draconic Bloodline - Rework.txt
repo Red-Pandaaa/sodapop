@@ -1,0 +1,107 @@
+Dragon Ancestor
+  At 1st level, you choose one type of dragon as your ancestor. The damage and dragon type associated with each dragon is used by features you gain later. You can change your choice whenever you gain a level in sorcerer.
+    ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+    ┃ Draconic Ancestor                        ┃
+    ┠──────────────┬─────────────┬─────────────┨
+    ┃ Dragon Color │ Damage Type │ Dragon Type ┃
+    ┠╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌┨
+    ┃    Black     │    Acid     │  Chromatic  ┃
+    ┃    Blue      │  Lightning  │  Chromatic  ┃
+    ┃    Brass     │    Fire     │  Metallic   ┃
+    ┃    Bronze    │  Lightning  │  Metallic   ┃
+    ┃    Copper    │    Acid     │  Metallic   ┃
+    ┃    Gold      │    Fire     │  Metallic   ┃
+    ┃    Green     │   Poison    │  Chromatic  ┃
+    ┃    Red       │    Fire     │  Chromatic  ┃
+    ┃    Silver    │    Cold     │  Metallic   ┃
+    ┃    Steel     │   Poison    │  Metallic   ┃
+    ┃    White     │    Cold     │  Chromatic  ┃
+    ┗━━━━━━━━━━━━━━┷━━━━━━━━━━━━━┷━━━━━━━━━━━━━┛
+  You learn additional spells when you reach certain levels in this class, as shown on the Draconic Spells table. Each of these spells counts as a sorcerer spell for you, but it doesn’t count against the number of sorcerer spells you know. You only know the spells of the damage type for your ancestor.
+    ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+    ┃ Draconic Spells                                                                                         ┃
+    ┠───────┬──────────────────────┬────────────────────┬────────────────┬──────────────────┬─────────────────┨
+    ┃ Level │      Acid Spells     │     Cold Spells    │  Fire Spells   │ Lightning Spells │  Poison Spells  ┃
+    ┠╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┨
+    ┃  1st  │ Tasha's Caustic Brew │      Ice Knife     │ Hellish Rebuke │    Witch Bolt    │ Ray of Sickness ┃
+    ┃  3rd  │  Melf's Acid Arrow   │ Rime's Binding Ice │ Scorching Ray  │          Dragon's Breath           ┃
+    ┃  5th  │              Hunger of Hadar              │    Fireball    │  Call Lightning  │   Feign Death   ┃
+    ┃  7th  │   Vitriolic Sphere   │     Ice Storm      │  Wall of Fire  │   Storm Sphere   │   Giant Insect  ┃
+    ┃  9th  │                       Summon Draconic Spirit (Chromatic or Metallic Only)                       ┃
+    ┗━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━┛
+  You can cast one 1st-level spell of your associated ancestory's element in the Draconic Spells table once without expending a spell slot. Once you cast a spell in this way, you can't do so again until you finish a long rest.
+  You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.
+
+Draconic Resilience
+  As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.
+  Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren't wearing armor, your AC equals 13 + your Dexterity modifier.
+
+Elemental Affinity
+  Starting at 6th level, when you cast a spell that deals damage of the type associated with your draconic ancestry, add your Charisma modifier to one damage roll of that spell. 
+    If your ancestor is a chromatic dragon: you can spend 1 sorcery point to remove resistance to that damage type on that target for 1 hour.
+    If your ancestor is a metallic dragon: you can spend 1 sorcery point to grant you a target of your choice within 60ft resistance to that damage type for 1 hour.
+
+Dragon Wings
+  At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed or 40ft, whichever is higher. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn.
+  You can't manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them.
+
+Draconic Shape
+  Beginning at 18th level, you can channel the shapeshifting power of your dragon ancestor, causing you to become a terrifying dragon. As an action, you can spend 6 sorcery points to draw on this power and magically assume the shape of a dragon. The transformation lasts for 1 hour, until you lose your concentration (as if you were casting a concentration spell), until you dispel it by using a bonus action, or until you drop to 0 hit points or die.
+  Once you use this ability, you cant do so again until you finish a long rest.
+    ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+    ┃ Draconic Form                                                         ┃
+    ┠───────────────────────────────────────────────────────────────────────┨
+    ┃ Large Dragon                                                          ┃
+    ┃ Armor Class: 13 + (CHA x 2)                                           ┃
+    ┃ Hit Points: 50 + (10 x Player Level)                                  ┃
+    ┃ Hit Dice: 8d12 + (2d12 x Player Level)                                ┃
+    ┃ Speed: 30ft., fly 60ft., swim 30ft.                                   ┃
+    ┠───────────┬───────────┬───────────┬───────────┬───────────┬───────────┨
+    ┃    STR    │    DEX    │    CON    │    INT    │    WIS    │    CHA    ┃
+    ┃   19(+4)  │   14(+2)  │   17(+3)  │   x(+x)   │   x(+x)   │   x(+x)   ┃
+    ┠╌╌╌╌╌╌╌╌╌╌╌┴╌╌╌╌╌╌╌╌╌╌╌┴╌╌╌╌╌╌╌╌╌╌╌┴╌╌╌╌╌╌╌╌╌╌╌┴╌╌╌╌╌╌╌╌╌╌╌┴╌╌╌╌╌╌╌╌╌╌╌┨
+    ┃ Damage Resistances: Acid, Cold, Fire, Lightning, Poison               ┃
+    ┃ Condition Immunities: Charmed, Frightened, Poisoned                   ┃
+    ┃ Senses: Blindsight 30ft., Darkvision 120ft.                           ┃
+    ┠───────────────────────────────────────────────────────────────────────┨
+    ┃ Actions                                                               ┃
+    ┠╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┨
+    ┃ Multiattack. You make a number of Bite, Slash, or Whip attacks equal  ┃
+    ┃ to your charisma modifier.                                            ┃
+    ┠╴                                                                     ╶┨
+    ┃ Slash. Melee Weapon Attack: your spell attack modifier to hit,        ┃
+    ┃  reach 5ft., one target. Hit: 2d10+4 Slashing damage.                 ┃
+    ┠╴                                                                     ╶┨
+    ┃ Bite. Melee Weapon Attack: your spell attack modifier to hit,         ┃
+    ┃ reach 10ft., one target. Hit: 2d8+8 Piercing damage.                  ┃
+    ┠╴                                                                     ╶┨
+    ┃ Whip. Melee Weapon Attack: your spell attack modifier to hit,         ┃
+    ┃ reach 15ft., one target. Hit: 2d6+10 Bludgeoning damage.              ┃
+    ┠╴                                                                     ╶┨
+    ┃ Frightful Presence. Each creature of your choice that is within 90    ┃
+    ┃ feet and aware of you must succeed on a Wisdom saving throw against   ┃
+    ┃ your spell save DC or become frightened for 1 minute. A creature can  ┃
+    ┃ repeat the saving throw at the end of each of its turns, ending the   ┃
+    ┃ effect on itself on a success. If a creature's saving throw is        ┃
+    ┃ successful or the effect ends for it, the creature is immune to your  ┃
+    ┃ Frightful Presence for the next 24 hours.                             ┃
+    ┠╴                                                                     ╶┨
+    ┃ Breath Weapons. You can use either of the following breath weapons.   ┃
+    ┃ You can use this action 3 times.                                      ┃
+    ┃   Cone of Breath. You exhale destructive energy in a 60ft cone.       ┃
+    ┃ Each creature in that area must make a Dexterity saving throw against ┃
+    ┃ your spell save DC. A creature takes 12d10 + (10 x CHA) damage of a   ┃
+    ┃ type you have resistance to (your choice) on a failed save, or half   ┃
+    ┃ as much on a successful one.                                          ┃
+    ┃   Line of Breath. You exhale destructive energy in a 90ft line that   ┃
+    ┃ is 5 feet wide. each creature in that area must make a Dexterity      ┃
+    ┃ saving throw against your spell save DC. A creature takes 15d8 +      ┃
+    ┃ (10 x CHA) damage of a type you have resistance to (your choice) on   ┃
+    ┃ a failed save, or half as much on a successful one.                   ┃
+    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+  While you are transformed, the following rules apply:
+    - Your game statistics are replaced by the statistics of Draconic Form, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores.
+    - When you transform, you assume the hit points and Hit Dice for Draconic Form . When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form, For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.
+    - You can speak, but you can't cast spells or take any action that requires hands. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as Call Lightning, that you've already cast.
+    - You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so.
+    - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.

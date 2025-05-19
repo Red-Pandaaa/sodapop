@@ -1,0 +1,31 @@
+Gamil Master Subclass:
+  Spells:
+   ┏━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+   ┃ Level │ Forged Spells                             ┃
+   ┠───────┼───────────────────────────────────────────┨
+   ┃ 1st   │ Burning Hands, Compelled Duel, Mending    ┃
+   ┃ 5th   │ Heat Metal, Shield of Carceri (Fire Only) ┃
+   ┃ 9th   │ Haste, Gamil's Firey Flames               ┃
+   ┃ 13th  │ Widogast's Web of Fire, Wall of Fire      ┃
+   ┃ 17th  │ Immolation, Steel Wind Strike             ┃
+   ┗━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+  Sworn to the Blade:
+    Starting at 1st level, you can transform one weapon that you or your master has forged into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest.
+    You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
+    Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
+
+  Forged Warrior:
+    At 1st level, you acquire the training necessary to effectively arm yourself for battle. You gain proficiency with medium armor, shields, and martial weapons.
+    The influence of your master also allows you to channel your magic through a particular weapon. Whenever you finish a long rest, you can touch one weapon that you are proficient with and that lacks the two-handed property. When you attack with that weapon, you can use your Charisma modifier, instead of Strength or Dexterity, for the attack and damage rolls. This benefit lasts until you finish a long rest. This benefit extends to every pact weapon you conjure with Sworn to the Blade, no matter the weapon's type.
+
+  Extra Attack:
+    Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. Moreover, you can cast one of your cantrips in place of one of those attacks.
+
+  Heart of Fire:
+    At 10th level, your master has provided greater potency to your magic, enhancing the healing and damage you create through the magic given to you. Whenever you cast a spell that expends a spell slot, and you are using a weapon as your spellcasting focus, you gain a bonus to one roll of the spell. That roll must restore hit points or be a damage roll that deals force, fire, piercing, bludgeoning, or slashing damage, and the bonus equals your Charisma modifier (minimum of +1).
+    
+  14th Level Feature:
+    Starting at 14th level, the firey energy you channel allows you to come back from death. When you have to make a death saving throw at the start of your turn, you can instead spring back to your feet with a burst of firey energy. You regain hit points equal to half your hit point maximum, and then you stand up if you so choose. Each creature of your choice that is within 10 feet of you takes fire damage equal to 1d8 x your charisma modifier, and is blinded until the end of the current turn.
+    Aditionally, if your master has Mantle of Flame active, you deal additional fire damage equal to 1d6 x your master's charisma modifier
+    Once you use this feature, you can’t use it again until you finish a long rest. 
