@@ -7,4 +7,5 @@ Magmatic Canyon | 5th-level transmutation
   The pool of magma lasts for up to 1 minute, or until concentration ends. Any creature that enters the magma pool for the first time on a turn or ends its turn there must succeed on a Constitution saving throw or take 6d6 fire damage.
    When you cast this spell using a spell slot of 6th level or higher, the fire damage increases by 2d6 for each slot level above 5th.
   Classes: Sorcerer, Wizard
+
   # Note: This was previously called "Ados' Lake of Lava". This spell doesn't fit the personality of Ados, so I decided to change the name. I apologise if it causes any confusion.
