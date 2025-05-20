@@ -25,21 +25,21 @@ As always, check in with your DM first before using anything here
 ##### Cantrips:
 - [Ados' Dope Shades](https://github.com/Red-Pandaaa/sodapop/blob/main/Spells/0th%20-%20Ados'%20Dope%20Shades%20-%20Enchantment.txt) - Enchantment  
 ##### 1st Level:
-- [Dominating Rizz](https://github.com/Red-Pandaaa/sodapop/blob/main/Spells/1st%20-%20Dominating%20Rizz%20-%20Enchantment.txt) - Enchantment (Joke Spell)  
+- [Dominating Rizz](https://github.com/Red-Pandaaa/sodapop/blob/main/Spells/1st%20-%20Dominating%20Rizz%20-%20Enchantment.txt) - Enchantment _(Joke Spell)_  
 - [Flame Dagger](https://github.com/Red-Pandaaa/sodapop/blob/main/Spells/1st%20-%20Flame%20Dagger%20-%20Conjuration.txt) - Conjuration  
 ##### 2nd Level:
 - [Ados' Spectacular Flames](https://github.com/Red-Pandaaa/sodapop/blob/main/Spells/2nd%20-%20Ados'%20Spectacular%20Flames%20-%20Evocation.txt) - Evocation
 - [Prismatic Blade](https://github.com/Red-Pandaaa/sodapop/blob/main/Spells/2nd%20-%20Prismatic%20Blade%20-%20Illusion.txt) - Illusion
 - [Shield of Carceri](https://github.com/Red-Pandaaa/sodapop/blob/main/Spells/2nd%20-%20Shield%20of%20Carceri%20-%20Abjuration.txt) - Abjuration
 ##### 3rd Level:
-- [Gamil's Firey Flames](https://github.com/Red-Pandaaa/sodapop/blob/main/Spells/3rd%20-%20Gamil's%20Firey%20Flames%20-%20Evocation.txt) - Evocation (Request)
+- [Gamil's Firey Flames](https://github.com/Red-Pandaaa/sodapop/blob/main/Spells/3rd%20-%20Gamil's%20Firey%20Flames%20-%20Evocation.txt) - Evocation _(Request)_
 ##### 4th Level:
 ##### 5th Level:
 - [Magmatic Canyon](https://github.com/Red-Pandaaa/sodapop/blob/main/Spells/5th%20-%20Magmatic%20Canyon%20-%20Transmutation.txt) - Transmutation
 ##### 6th Level:
-- [Ados' Blazing Balls](https://github.com/Red-Pandaaa/sodapop/blob/main/Spells/6th%20-%20Ados'%20Blazing%20Balls%20-%20Evocation.txt) - Evocation (Name Subject to Change)
+- [Ados' Blazing Balls](https://github.com/Red-Pandaaa/sodapop/blob/main/Spells/6th%20-%20Ados'%20Blazing%20Balls%20-%20Evocation.txt) - Evocation _(Name Subject to Change)_
 ##### 7th Level:
 ##### 8th Level:
-- [Power Word: Gender Dysphoria](https://github.com/Red-Pandaaa/sodapop/blob/main/Spells/8th%20-%20Power%20Word%3A%20Gender%20Dysphoria%20-%20Enchantment.txt) - Enchantment (Request)
+- [Power Word: Gender Dysphoria](https://github.com/Red-Pandaaa/sodapop/blob/main/Spells/8th%20-%20Power%20Word%3A%20Gender%20Dysphoria%20-%20Enchantment.txt) - Enchantment _(Request)_
 ##### 9th Level:
 - [Nuclear Smite](https://github.com/Red-Pandaaa/sodapop/blob/main/Spells/9th%20-%20Nuclear%20Smite%20-%20Evocation.txt)
