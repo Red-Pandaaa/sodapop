@@ -1,0 +1,10 @@
+Russ' Russtacular Revivify | 3rd-level necromancy
+ Casting Time: 1 minute
+ Range: Touch
+ Components: V, S, M (Ambers worth 350 gp, which the spell consumes)
+ Duration: Instantaneous
+    You touch a creature that has died within the last hour. If its soul is free and willing, the target returns to life with 1 hit point, and may spend up to half of their hit dice to heal, as if they took a long rest. This spell can't return to life a creature that has died of old age, or of a magical effect that caused the target to die instantly, nor can it restore any missing body parts.
+    Coming back from the dead is taxing on the mind and body. The target takes a -1 penalty to all attack rolls, saving throws, and ability checks. This effect disappears after a long rest.
+
+    _Spell Lists: Cleric, Druid, Ranger_
+
