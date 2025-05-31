@@ -1,0 +1,25 @@
+Apology
+    _Dagger, rare (requires attunement)_
+
+    This crude copper dagger shows poor but passionate craftsmanship, with an extraordinary affinity for the elements. This dagger grants a +2 bonus to attack and damage rolls made with it. While holding it, you gain +5ft of movement speed.
+
+    The dagger has 3 charges for the following properties, and regains 1d3 expended charges daily at dawn.
+
+    *Swiftness.* As an action, you can expend 2 charges to effect yourself with Swiftness for 3 turns. While you have swiftness, your speed is doubled, you gain a +2 bonus to AC, you gain advantage on Dexterity saving throws, and gain an additional action on each of your turns. When this effect ends, you can't move or take actions until the start of your next turn.
+
+    *Adaptation.* If you are hit with elemental damage while holding this dagger, you may spend a reaction and 1 charge to attune the dagger to the triggering damage type. You are resistant to the attuned damage type for 1 minute. Additionally, you learn one of the following cantrips for the duration of the attunement depending on the attuned damage type. You cast this cantrip as a bonus action, and may only do so once per turn.
+     ┏━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━┓
+     ┃  Element  │    Cantrip      ┃
+     ┠───────────┼─────────────────┨
+     ┃   Acid    │   Acid Splash   ┃
+     ┃   Cold    │   Ray of Frost  ┃
+     ┃   Fire    │    Firebolt     ┃
+     ┃ Lightning │ Shocking Grasp  ┃
+     ┃   Poison  │  Poison Spray   ┃
+     ┃   Force   │  Eldritch Blast ┃
+     ┃ Necrotic  │   Chill Touch   ┃
+     ┃  Psychic  │ Vicious Mockery ┃
+     ┃  Radiant  │   Sacred Flame  ┃
+     ┃  Thunder  │   Thunderclap   ┃
+     ┗━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━┛
+     

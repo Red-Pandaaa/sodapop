@@ -1,0 +1,10 @@
+Last Wish (Cursed Amulet of Health and Healing)
+    _Wondrous item, very rare (requires attunement by a sorcerer)_
+
+    This golden, heart-shaped necklace contains multiple crystalized chunks of green slime, as if it were a geode. Once attuned, a small green fire lights inside the amulet.
+
+    Your Constitution score is 17 while you wear this amulet.
+    As a bonus action, you may heal up to 2 targets (including you) within 30ft by spending up to half of your hit dice. Dice spent this way are considered d8s. When you perform this action, the Constitution score on this item is reduced by 1.
+    If the amulet's Constitution score is below 17, it regains 1 Constitution score every dawn. This cannot bring the amulet's Constitution score above 17.
+
+    *Curse.* This amulet is cursed and becoming attuned to it extends the curse to the wielder. Your Constitution score is replaced with the amulet's. The amulet's chain fuses to your skin at the collar. You can't voluntarily end your attunement to the amulet, and any attempt to remove it deals 1d10+2 bludgeoning damage to the wearer. If you're targeted by a spell that ends a curse, your attunement to the amulet ends, as it falls to the ground and shatters.
